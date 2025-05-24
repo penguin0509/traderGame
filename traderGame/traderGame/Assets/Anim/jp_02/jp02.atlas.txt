@@ -1,0 +1,55 @@
+
+jp02.png
+size: 522,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JP_female_back_arm
+  rotate: true
+  xy: 353, 89
+  size: 207, 145
+  orig: 207, 145
+  offset: 0, 0
+  index: -1
+JP_female_back_body
+  rotate: true
+  xy: 211, 298
+  size: 152, 292
+  orig: 152, 292
+  offset: 0, 0
+  index: -1
+JP_female_back_head
+  rotate: false
+  xy: 2, 207
+  size: 207, 355
+  orig: 207, 355
+  offset: 0, 0
+  index: -1
+JP_female_side_arm
+  rotate: true
+  xy: 353, 2
+  size: 85, 149
+  orig: 85, 149
+  offset: 0, 0
+  index: -1
+JP_female_side_body_b
+  rotate: true
+  xy: 211, 452
+  size: 110, 309
+  orig: 110, 309
+  offset: 0, 0
+  index: -1
+JP_female_side_body_f
+  rotate: true
+  xy: 211, 452
+  size: 110, 309
+  orig: 110, 309
+  offset: 0, 0
+  index: -1
+JP_female_side_head
+  rotate: true
+  xy: 2, 4
+  size: 201, 349
+  orig: 201, 349
+  offset: 0, 0
+  index: -1

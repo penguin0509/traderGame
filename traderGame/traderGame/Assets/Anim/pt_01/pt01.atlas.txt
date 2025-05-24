@@ -1,0 +1,55 @@
+
+pt01.png
+size: 427,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+POR_male_back_arm
+  rotate: false
+  xy: 134, 6
+  size: 232, 161
+  orig: 232, 161
+  offset: 0, 0
+  index: -1
+POR_male_back_body
+  rotate: false
+  xy: 2, 298
+  size: 192, 319
+  orig: 192, 319
+  offset: 0, 0
+  index: -1
+POR_male_back_head
+  rotate: false
+  xy: 196, 169
+  size: 221, 214
+  orig: 221, 214
+  offset: 0, 0
+  index: -1
+POR_male_side_arm
+  rotate: false
+  xy: 368, 19
+  size: 57, 148
+  orig: 57, 148
+  offset: 0, 0
+  index: -1
+POR_male_side_body_b
+  rotate: false
+  xy: 2, 2
+  size: 130, 294
+  orig: 130, 294
+  offset: 0, 0
+  index: -1
+POR_male_side_body_f
+  rotate: false
+  xy: 2, 2
+  size: 130, 294
+  orig: 130, 294
+  offset: 0, 0
+  index: -1
+POR_male_side_head
+  rotate: true
+  xy: 196, 385
+  size: 232, 216
+  orig: 232, 216
+  offset: 0, 0
+  index: -1

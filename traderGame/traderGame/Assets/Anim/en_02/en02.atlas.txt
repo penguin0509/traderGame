@@ -1,0 +1,55 @@
+
+en02.png
+size: 526,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EN_female_back_arm
+  rotate: true
+  xy: 371, 14
+  size: 200, 151
+  orig: 200, 151
+  offset: 0, 0
+  index: -1
+EN_female_back_body
+  rotate: true
+  xy: 2, 2
+  size: 150, 342
+  orig: 150, 342
+  offset: 0, 0
+  index: -1
+EN_female_back_head
+  rotate: true
+  xy: 2, 375
+  size: 205, 387
+  orig: 205, 387
+  offset: 0, 0
+  index: -1
+EN_female_side_arm
+  rotate: true
+  xy: 371, 216
+  size: 75, 153
+  orig: 75, 153
+  offset: 0, 0
+  index: -1
+EN_female_side_body_b
+  rotate: false
+  xy: 391, 293
+  size: 111, 287
+  orig: 111, 287
+  offset: 0, 0
+  index: -1
+EN_female_side_body_f
+  rotate: false
+  xy: 391, 293
+  size: 111, 287
+  orig: 111, 287
+  offset: 0, 0
+  index: -1
+EN_female_side_head
+  rotate: true
+  xy: 2, 154
+  size: 219, 367
+  orig: 219, 367
+  offset: 0, 0
+  index: -1

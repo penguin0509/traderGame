@@ -1,0 +1,55 @@
+
+en01.png
+size: 892,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EN_male_back_arm
+  rotate: true
+  xy: 743, 114
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+EN_male_back_body
+  rotate: false
+  xy: 421, 21
+  size: 188, 310
+  orig: 188, 310
+  offset: 0, 0
+  index: -1
+EN_male_back_head
+  rotate: false
+  xy: 2, 2
+  size: 216, 329
+  orig: 216, 329
+  offset: 0, 0
+  index: -1
+EN_male_side_arm
+  rotate: true
+  xy: 743, 55
+  size: 57, 147
+  orig: 57, 147
+  offset: 0, 0
+  index: -1
+EN_male_side_body_b
+  rotate: false
+  xy: 611, 36
+  size: 130, 295
+  orig: 130, 295
+  offset: 0, 0
+  index: -1
+EN_male_side_body_f
+  rotate: false
+  xy: 611, 36
+  size: 130, 295
+  orig: 130, 295
+  offset: 0, 0
+  index: -1
+EN_male_side_head
+  rotate: false
+  xy: 220, 5
+  size: 199, 326
+  orig: 199, 326
+  offset: 0, 0
+  index: -1

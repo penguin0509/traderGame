@@ -1,0 +1,55 @@
+
+cn01.png
+size: 484,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CN_male_back_arm
+  rotate: true
+  xy: 318, 2
+  size: 228, 159
+  orig: 228, 159
+  offset: 0, 0
+  index: -1
+CN_male_back_body
+  rotate: true
+  xy: 2, 6
+  size: 186, 307
+  orig: 186, 307
+  offset: 0, 0
+  index: -1
+CN_male_back_head
+  rotate: true
+  xy: 2, 194
+  size: 216, 314
+  orig: 216, 314
+  offset: 0, 0
+  index: -1
+CN_male_side_arm
+  rotate: true
+  xy: 329, 538
+  size: 74, 153
+  orig: 74, 153
+  offset: 0, 0
+  index: -1
+CN_male_side_body_b
+  rotate: false
+  xy: 329, 232
+  size: 139, 304
+  orig: 139, 304
+  offset: 0, 0
+  index: -1
+CN_male_side_body_f
+  rotate: false
+  xy: 329, 232
+  size: 139, 304
+  orig: 139, 304
+  offset: 0, 0
+  index: -1
+CN_male_side_head
+  rotate: true
+  xy: 2, 412
+  size: 200, 325
+  orig: 200, 325
+  offset: 0, 0
+  index: -1

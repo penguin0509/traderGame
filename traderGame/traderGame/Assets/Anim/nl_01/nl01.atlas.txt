@@ -1,0 +1,55 @@
+
+nl01.png
+size: 501,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HO_male_back_arm
+  rotate: true
+  xy: 340, 348
+  size: 230, 159
+  orig: 230, 159
+  offset: 0, 0
+  index: -1
+HO_male_back_body
+  rotate: false
+  xy: 144, 267
+  size: 194, 311
+  orig: 194, 311
+  offset: 0, 0
+  index: -1
+HO_male_back_head
+  rotate: false
+  xy: 234, 31
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
+HO_male_side_arm
+  rotate: true
+  xy: 340, 269
+  size: 77, 149
+  orig: 77, 149
+  offset: 0, 0
+  index: -1
+HO_male_side_body_b
+  rotate: false
+  xy: 2, 241
+  size: 140, 337
+  orig: 140, 337
+  offset: 0, 0
+  index: -1
+HO_male_side_body_f
+  rotate: false
+  xy: 2, 241
+  size: 140, 337
+  orig: 140, 337
+  offset: 0, 0
+  index: -1
+HO_male_side_head
+  rotate: false
+  xy: 2, 2
+  size: 230, 237
+  orig: 230, 237
+  offset: 0, 0
+  index: -1

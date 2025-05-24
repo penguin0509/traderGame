@@ -1,0 +1,55 @@
+
+nl02.png
+size: 746,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HO_female_back_arm
+  rotate: false
+  xy: 538, 2
+  size: 206, 171
+  orig: 206, 171
+  offset: 0, 0
+  index: -1
+HO_female_back_body
+  rotate: false
+  xy: 2, 42
+  size: 196, 344
+  orig: 196, 344
+  offset: 0, 0
+  index: -1
+HO_female_back_head
+  rotate: true
+  xy: 427, 175
+  size: 211, 233
+  orig: 211, 233
+  offset: 0, 0
+  index: -1
+HO_female_side_arm
+  rotate: false
+  xy: 662, 232
+  size: 62, 154
+  orig: 62, 154
+  offset: 0, 0
+  index: -1
+HO_female_side_body_b
+  rotate: true
+  xy: 200, 5
+  size: 149, 336
+  orig: 149, 336
+  offset: 0, 0
+  index: -1
+HO_female_side_body_f
+  rotate: true
+  xy: 200, 5
+  size: 149, 336
+  orig: 149, 336
+  offset: 0, 0
+  index: -1
+HO_female_side_head
+  rotate: true
+  xy: 200, 156
+  size: 230, 225
+  orig: 230, 225
+  offset: 0, 0
+  index: -1

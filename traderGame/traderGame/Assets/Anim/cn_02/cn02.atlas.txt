@@ -1,0 +1,55 @@
+
+cn02.png
+size: 535,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CN_female_back_arm
+  rotate: false
+  xy: 314, 156
+  size: 219, 146
+  orig: 219, 146
+  offset: 0, 0
+  index: -1
+CN_female_back_body
+  rotate: true
+  xy: 2, 384
+  size: 170, 326
+  orig: 170, 326
+  offset: 0, 0
+  index: -1
+CN_female_back_head
+  rotate: true
+  xy: 2, 166
+  size: 216, 310
+  orig: 216, 310
+  offset: 0, 0
+  index: -1
+CN_female_side_arm
+  rotate: false
+  xy: 307, 2
+  size: 77, 152
+  orig: 77, 152
+  offset: 0, 0
+  index: -1
+CN_female_side_body_b
+  rotate: true
+  xy: 2, 11
+  size: 153, 303
+  orig: 153, 303
+  offset: 0, 0
+  index: -1
+CN_female_side_body_f
+  rotate: true
+  xy: 2, 11
+  size: 153, 303
+  orig: 153, 303
+  offset: 0, 0
+  index: -1
+CN_female_side_head
+  rotate: false
+  xy: 330, 304
+  size: 202, 250
+  orig: 202, 250
+  offset: 0, 0
+  index: -1

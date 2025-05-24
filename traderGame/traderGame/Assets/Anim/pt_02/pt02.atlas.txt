@@ -1,0 +1,55 @@
+
+pt02.png
+size: 466,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+POR_female_back_arm
+  rotate: false
+  xy: 2, 2
+  size: 213, 156
+  orig: 213, 156
+  offset: 0, 0
+  index: -1
+POR_female_back_body
+  rotate: true
+  xy: 2, 160
+  size: 154, 340
+  orig: 154, 340
+  offset: 0, 0
+  index: -1
+POR_female_back_head
+  rotate: false
+  xy: 2, 316
+  size: 206, 217
+  orig: 206, 217
+  offset: 0, 0
+  index: -1
+POR_female_side_arm
+  rotate: false
+  xy: 217, 5
+  size: 70, 153
+  orig: 70, 153
+  offset: 0, 0
+  index: -1
+POR_female_side_body_b
+  rotate: false
+  xy: 344, 35
+  size: 120, 298
+  orig: 120, 298
+  offset: 0, 0
+  index: -1
+POR_female_side_body_f
+  rotate: false
+  xy: 344, 35
+  size: 120, 298
+  orig: 120, 298
+  offset: 0, 0
+  index: -1
+POR_female_side_head
+  rotate: true
+  xy: 210, 335
+  size: 198, 211
+  orig: 198, 211
+  offset: 0, 0
+  index: -1

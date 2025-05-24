@@ -1,0 +1,55 @@
+
+jp01.png
+size: 475,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JP_male_back_arm
+  rotate: true
+  xy: 332, 395
+  size: 205, 141
+  orig: 205, 141
+  offset: 0, 0
+  index: -1
+JP_male_back_body
+  rotate: true
+  xy: 2, 395
+  size: 205, 328
+  orig: 205, 328
+  offset: 0, 0
+  index: -1
+JP_male_back_head
+  rotate: false
+  xy: 2, 155
+  size: 222, 238
+  orig: 222, 238
+  offset: 0, 0
+  index: -1
+JP_male_side_arm
+  rotate: false
+  xy: 330, 12
+  size: 85, 155
+  orig: 85, 155
+  offset: 0, 0
+  index: -1
+JP_male_side_body_b
+  rotate: true
+  xy: 2, 2
+  size: 151, 326
+  orig: 151, 326
+  offset: 0, 0
+  index: -1
+JP_male_side_body_f
+  rotate: true
+  xy: 2, 2
+  size: 151, 326
+  orig: 151, 326
+  offset: 0, 0
+  index: -1
+JP_male_side_head
+  rotate: false
+  xy: 226, 169
+  size: 221, 224
+  orig: 221, 224
+  offset: 0, 0
+  index: -1
